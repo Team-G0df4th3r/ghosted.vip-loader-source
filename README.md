@@ -1,4 +1,4 @@
-# ghosted.vip-pwned
+# ghosted.vip-pwned by void 
 ghosted.vip (formerly pandaware) + loader source (millionware loader)
 
 This what you get for being a bosnian prick
@@ -11,4 +11,4 @@ This what you get for being a bosnian prick
 <img src="https://media.discordapp.net/attachments/927989302825193502/1004013906701852802/unknown.png" width="50%">
 
 And then the monkey banned me XAXA
-<img src="https://media.discordapp.net/attachments/927989302825193502/1004013906701852802/unknown.png" width="50%">
+
